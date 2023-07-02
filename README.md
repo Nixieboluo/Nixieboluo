@@ -18,13 +18,12 @@
 
 ## collab!
 
-![Editor: VSCode](https://img.shields.io/badge/collab%20wanted...-555555?style=for-the-badge)
+![Collab wanted](https://img.shields.io/badge/collab%20wanted...-555555?style=for-the-badge)
 
 ## public!
 
 ### services
 
-[![Files listing](https://img.shields.io/badge/files%20listing-fe7d37?style=for-the-badge)](https://files.sagirii.me/)
 [![Will be more](https://img.shields.io/badge/will%20be%20more...-555555?style=for-the-badge)](.)
 
 ### social
