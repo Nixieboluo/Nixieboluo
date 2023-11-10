@@ -5,16 +5,11 @@
 ### loves
 
 ![Typescript](https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue-4fc08d?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![SolidJS](https://img.shields.io/badge/solidjs-2c4f7c?style=for-the-badge&logo=solid&logoColor=white)
 
 ### setup
 
 ![Editor: VSCode](https://img.shields.io/badge/editor-vscode-007acc?style=for-the-badge)
-![Color scheme: Atom One theme](https://img.shields.io/badge/color-atom%20one-66595c?style=for-the-badge)
-[![Font: Iosevka custom build](https://img.shields.io/badge/font-iosevka%20custom%20build-aadd00?style=for-the-badge)](https://gist.github.com/Nixieboluo/fec43fa40ca704f9b8178916f13f3a75)
 
 ## collab!
 
