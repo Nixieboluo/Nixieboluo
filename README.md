@@ -7,19 +7,11 @@
 ![Typescript](https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SolidJS](https://img.shields.io/badge/solidjs-2c4f7c?style=for-the-badge&logo=solid&logoColor=white)
 
-### setup
-
-![Editor: VSCode](https://img.shields.io/badge/editor-vscode-007acc?style=for-the-badge)
-
-## collab!
-
-![Collab wanted](https://img.shields.io/badge/collab%20wanted...-555555?style=for-the-badge)
-
 ## public!
 
 ### services
 
-[![Will be more](https://img.shields.io/badge/will%20be%20more...-555555?style=for-the-badge)](.)
+[![Files Listing](https://img.shields.io/badge/files%20listing-3a9ba1?style=for-the-badge)](https://files.sagirii.me)
 
 ### social
 
