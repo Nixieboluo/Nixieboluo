@@ -4,8 +4,12 @@
 
 ### loves
 
-![Typescript](https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
-![SolidJS](https://img.shields.io/badge/solidjs-2c4f7c?style=for-the-badge&logo=solid&logoColor=white)
+[![TypeScript](https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/react-61dafb?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
+[![SolidJS](https://img.shields.io/badge/solidjs-2c4f7c?style=for-the-badge&logo=solid&logoColor=white)](https://www.solidjs.com/)
+
+[![Scala](https://img.shields.io/badge/scala-dc322f?style=for-the-badge&logo=scala&logoColor=white)](https://www.scala-lang.org/)
+[![SpigotMC](https://img.shields.io/badge/spigotmc-ed8106?style=for-the-badge&logo=spigotmc&logoColor=white)](https://www.spigotmc.org/)
 
 ## public!
 
@@ -21,4 +25,4 @@
 [![Steam profile](https://img.shields.io/badge/steam-just%20relax-0?style=for-the-badge&labelColor=00aeef&color=555555&logo=steam&logoColor=white)](https://steamcommunity.com/id/nixieboluo/)
 [![Email](https://img.shields.io/badge/email-so%20formal-0?style=for-the-badge&labelColor=008cfc&color=555555&logo=mailgun&logoColor=white)](mailto:me@sagirii.me)
 
-EOF
+`EOF`
